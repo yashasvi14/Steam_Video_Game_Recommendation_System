@@ -26,6 +26,8 @@ The system uses four datasets:
 
 The dataset is sourced from Kaggle avaialble here [Game Recommendations on Steam](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam)
 
+Recommendation and user datasets needs to be downloaded from Kaggle since the files are large
+
 ## Functions
 
 ### 1. `get_knn_recommendations`
